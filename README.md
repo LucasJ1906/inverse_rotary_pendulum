@@ -12,3 +12,8 @@ LQR algorithm for the control
 ![CAD preview](https://github.com/user-attachments/assets/af607582-5b44-44bb-97c2-111ffb56fa45)
 
 ![Demo](https://github.com/user-attachments/assets/58f7b6bc-392f-4095-b607-a6c31c056ff2)
+![Picture](https://github.com/user-attachments/assets/59212a0b-a5f7-4768-976d-098a32ea981e)
+
+
+TODO : 
+Publish clean CAD (and BOM) and manufactruing and assembly instruction 
